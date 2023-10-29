@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalDiaryManager.ConsoleApp", "PersonalDiaryManager.ConsoleApp\PersonalDiaryManager.ConsoleApp.csproj", "{1B84211A-2834-4818-A6BA-8E9626D916D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalDiaryManager.Domain", "PersonalDiaryManager.Domain\PersonalDiaryManager.Domain.csproj", "{5902217E-8396-4BA1-B1AC-88451AAF4BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B84211A-2834-4818-A6BA-8E9626D916D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B84211A-2834-4818-A6BA-8E9626D916D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B84211A-2834-4818-A6BA-8E9626D916D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B84211A-2834-4818-A6BA-8E9626D916D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5902217E-8396-4BA1-B1AC-88451AAF4BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5902217E-8396-4BA1-B1AC-88451AAF4BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5902217E-8396-4BA1-B1AC-88451AAF4BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5902217E-8396-4BA1-B1AC-88451AAF4BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E3508D0-3F80-43C3-8C94-9AB8C2B9A56C}
+	EndGlobalSection
+EndGlobal
